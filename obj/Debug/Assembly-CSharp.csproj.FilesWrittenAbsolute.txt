@@ -1,0 +1,17 @@
+/Users/coshiro/workspace/smas-bar/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/coshiro/workspace/smas-bar/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/coshiro/workspace/smas-bar/obj/Debug/Assembly-CSharp.dll
+/Users/coshiro/workspace/smas-bar/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/coshiro/workspace/smas-bar/Temp/bin/Debug/UnityEngine.dll
+/Users/coshiro/workspace/smas-bar/Temp/bin/Debug/UnityEditor.dll
+/Users/coshiro/workspace/smas-bar/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/coshiro/workspace/smas-bar/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/coshiro/workspace/smas-bar/Temp/bin/Debug/Mono.Cecil.dll
+/Users/coshiro/workspace/smas-bar/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/coshiro/workspace/smas-bar/Temp/bin/Debug/Unity.DataContract.dll
+/Users/coshiro/workspace/smas-bar/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/coshiro/workspace/smas-bar/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/coshiro/workspace/smas-bar/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/coshiro/workspace/smas-bar/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/coshiro/workspace/smas-bar/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/coshiro/workspace/smas-bar/Temp/bin/Debug/Mono.Cecil.Mdb.dll
