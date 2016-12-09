@@ -1,5 +1,35 @@
-/*
-!/ProjectSettings
-!/Assets
-.DS_Store
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Assets/AssetStoreTools*
 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DSStore?
+.
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+*.meta
